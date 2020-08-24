@@ -1,0 +1,13 @@
+name: DeadlandPlugin
+version: 1.0-PRE-RELEASE
+author: Tridox25
+main: me.tridox25.DeadlandPlugin.Main
+description: El pluin oficial de la serie Deadland
+api-version: 1.15
+commands:
+  item:
+    description: This command give you an item
+
+  dpl:
+    description: Información general del plugin
+
